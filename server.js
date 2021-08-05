@@ -5,7 +5,7 @@ const dotenv = require("dotenv").config()
 const app = express()
 
 app.get("/api", (req, res) => {
-    res.json({ message: "Hello World 🌍" })
+    res.json({ message: "Hello world, this is a basic boilerplate for React & Express 🌍" })
 })
 
 
