@@ -1,6 +1,6 @@
 # Expreact
 ![enter image description here](https://j.top4top.io/p_20439s61m1.png)
-Hello World, this a very basic boilerplate for React (frontend) and Express (backend).
+\n Hello World, this a very basic boilerplate for React (frontend) and Express (backend).
 
 ### Install
 First clone the repo using command
