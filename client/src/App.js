@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import banner from "./assets/banner.svg";
 import "./style.scss";
 
 class App extends Component {
@@ -18,7 +19,10 @@ class App extends Component {
   render(){
     return (
       <div className="App">
-        <h1>{this.state.message}</h1>
+      <div className="frame">
+            <img src={banner} />
+            <p>{this.state.message}</p>
+          </div>
       </div>
     );
   }
