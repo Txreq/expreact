@@ -15,10 +15,10 @@ Then install dependencies
 npm install
 npm run client-install
 ```
-Now we are good to go, run local server with
-`npm start`
 
-And you should see this on http://localhost:3000/
-![enter image description here](https://e.top4top.io/p_204312ed91.png)
+Now we are good to go, run local server with 
+```
+npm run dev
+```
 
 Happy Hacking!
